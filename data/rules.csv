@@ -1,0 +1,155 @@
+id,rhs,lhs,support,confidence,lift
+0,"('doritos',)","('mountain dew',)",0.004532729,0.290598291,4.843950617
+1,"('doritos',)","('olive oil',)",0.003199573,0.205128205,3.114709852
+2,"('mushroom cream sauce',)","('escalope',)",0.005732569,0.300699301,3.790832697
+3,"('pasta',)","('escalope',)",0.005865885,0.372881356,4.70081185
+4,"('fromage blanc',)","('honey',)",0.003332889,0.245098039,5.164270764
+5,"('herb & pepper',)","('soylent coffiest',)",0.015997867,0.323450135,3.291993841
+6,"('tomato sauce',)","('soylent coffiest',)",0.005332622,0.377358491,3.840659481
+7,"('whole wheat pasta',)","('olive oil',)",0.007998933,0.271493213,4.122410098
+8,"('pasta',)","('shrimp',)",0.005065991,0.322033898,4.506672148
+9,"('avocado', 'sun chips')","('milk',)",0.003332889,0.416666667,3.215449246
+10,"('milk', 'cake')","('burgers',)",0.003732836,0.28,3.211437309
+11,"('chocolate', 'turkey')","('burgers',)",0.003066258,0.270588235,3.103489836
+12,"('turkey', 'milk')","('burgers',)",0.003199573,0.282352941,3.238424177
+13,"('soylent vanilla', 'cake')","('tomatoes',)",0.003066258,0.298701299,4.367560315
+14,"('soylent coffiest',)","('sun chips',)",0.003066258,0.676470588,3.885303126
+15,"('soylent vanilla', 'chocolate')","('shrimp',)",0.005332622,0.23255814,3.254512322
+16,"('chocolate', 'herb & pepper')","('soylent coffiest',)",0.003999467,0.441176471,4.490182776
+17,"('chocolate', 'soup')","('milk',)",0.003999467,0.394736842,3.046215075
+18,"('cooking oil', 'soylent coffiest' )","('sun chips',)",0.00479936,0.571428571,3.281995187
+19,"('nan', 'doritos')","('mountain dew',)",0.004532729,0.290598291,4.843950617
+20,"('nan', 'doritos')","('olive oil',)",0.003199573,0.205128205,3.114709852
+21,"('soylent coffiest' , 'eggs')","('herb & pepper',)",0.004132782,0.206666667,4.178454627
+22,"('red wine', 'eggs')","('sun chips',)",0.003732836,0.528301887,3.034297437
+23,"('mushroom cream sauce', 'nan')","('escalope',)",0.005732569,0.300699301,3.790832697
+24,"('pasta', 'nan')","('escalope',)",0.005865885,0.372881356,4.70081185
+25,"('french fries', 'soylent coffiest' )","('herb & pepper',)",0.003199573,0.230769231,4.665768194
+26,"('fromage blanc', 'nan')","('honey',)",0.003332889,0.245098039,5.164270764
+27,"('soylent vanilla', 'green tea')","('tomatoes',)",0.003332889,0.231481481,3.384683416
+28,"('soylent vanilla', 'sun chips')","('soylent coffiest',)",0.008665511,0.311004785,3.165328209
+29,"('soylent vanilla', 'milk')","('olive oil',)",0.00479936,0.203389831,3.088314005
+30,"('soylent vanilla', 'soup')","('milk',)",0.003999467,0.5,3.858539095
+31,"('milk', 'tomatoes')","('soylent vanilla',)",0.004132782,0.295238095,3.097316017
+32,"('shrimp', 'mineral water')","('soylent vanilla',)",0.00719904,0.305084746,3.200616333
+33,"('soylent vanilla', 'sun chips')","('olive oil',)",0.005732569,0.205741627,3.124024175
+34,"('soylent vanilla', 'sun chips')","('shrimp',)",0.0059992,0.215311005,3.013148968
+35,"('soylent vanilla', 'shrimp')","('tomatoes',)",0.003999467,0.24,3.509239766
+36,"('soylent vanilla', 'sun chips')","('tomatoes',)",0.006665778,0.23923445,3.498046019
+37,"('grated cheese', 'sun chips')","('soylent coffiest',)",0.005332622,0.322580645,3.283144395
+38,"('soylent coffiest' , 'green tea')","('tomatoes',)",0.003066258,0.207207207,3.029749047
+39,"('milk', 'herb & pepper')","('soylent coffiest',)",0.00359952,0.391304348,3.982596897
+40,"('mineral water', 'herb & pepper')","('soylent coffiest',)",0.006665778,0.390625,3.975682666
+41,"('nan', 'herb & pepper')","('soylent coffiest',)",0.015997867,0.323450135,3.291993841
+42,"('sun chips', 'herb & pepper')","('soylent coffiest',)",0.006399147,0.393442623,4.004359722
+43,"('mountain dew', 'soylent coffiest' )","('milk',)",0.003866151,0.408450704,3.152046021
+44,"('soylent coffiest' , 'milk')","('olive oil',)",0.004932676,0.224242424,3.404944179
+45,"('soup', 'soylent coffiest' )","('milk',)",0.003999467,0.410958904,3.171401996
+46,"('tomato sauce', 'nan')","('soylent coffiest',)",0.005332622,0.377358491,3.840659481
+47,"('pasta sauce', 'sun chips')","('soylent coffiest',)",0.003332889,0.337837838,3.438428252
+48,"('shrimp', 'soylent coffiest' )","('sun chips',)",0.0059992,0.523255814,3.00531536
+49,"('tomato sauce', 'soylent coffiest' )","('sun chips',)",0.003066258,0.575,3.302507657
+50,"('mountain dew', 'milk')","('olive oil',)",0.00359952,0.243243243,3.693456615
+51,"('shrimp', 'olive oil')","('milk',)",0.003199573,0.393442623,3.036227484
+52,"('olive oil', 'milk')","('soup',)",0.00359952,0.2109375,4.174781497
+53,"('milk', 'sun chips')","('olive oil',)",0.00719904,0.203007519,3.082508904
+54,"('milk', 'tomatoes')","('soup',)",0.003066258,0.219047619,4.335293379
+55,"('sun chips', 'whole wheat pasta')","('milk',)",0.003999467,0.454545455,3.507762813
+56,"('soup', 'mineral water')","('olive oil',)",0.005199307,0.225433526,3.423030119
+57,"('whole wheat pasta', 'mineral water')","('olive oil',)",0.003866151,0.402777778,6.115862573
+58,"('mountain dew', 'sun chips')","('olive oil',)",0.003466205,0.201550388,3.060383517
+59,"('whole wheat pasta', 'nan')","('olive oil',)",0.007998933,0.271493213,4.122410098
+60,"('pasta', 'nan')","('shrimp',)",0.005065991,0.322033898,4.506672148
+61,"('pancakes', 'sun chips')","('olive oil',)",0.005065991,0.201058201,3.052910053
+62,"('olive oil', 'tomatoes')","('sun chips',)",0.004399413,0.611111111,3.509911519
+63,"('whole wheat rice', 'sun chips')","('tomatoes',)",0.003066258,0.216981132,3.172661738
+64,"('avocado', 'sun chips', 'nan')","('milk',)",0.003332889,0.416666667,3.215449246
+65,"('milk', 'nan', 'cake')","('burgers',)",0.003732836,0.28,3.211437309
+66,"('chocolate', 'turkey', 'nan')","('burgers',)",0.003066258,0.270588235,3.103489836
+67,"('turkey', 'milk', 'nan')","('burgers',)",0.003199573,0.282352941,3.238424177
+68,"('soylent vanilla', 'nan', 'cake')","('tomatoes',)",0.003066258,0.298701299,4.367560315
+69,"('soylent coffiest' , 'cereals', 'nan')","('sun chips',)",0.003066258,0.676470588,3.885303126
+70,"('chocolate', 'mineral water', 'eggs')","('soylent coffiest',)",0.003999467,0.297029703,3.023093354
+71,"('soylent vanilla', 'chocolate', 'mineral water')","('soylent coffiest',)",0.003332889,0.342465753,3.485530009
+72,"('soylent vanilla', 'chocolate', 'soylent coffiest' )","('sun chips',)",0.003066258,0.534883721,3.072100146
+73,"('soylent vanilla', 'chocolate', 'mineral water')","('milk',)",0.003999467,0.410958904,3.171401996
+74,"('soylent vanilla', 'chocolate', 'sun chips')","('milk',)",0.003466205,0.440677966,3.400746321
+75,"('soylent vanilla', 'chocolate', 'mineral water')","('shrimp',)",0.003199573,0.328767123,4.600899612
+76,"('soylent vanilla', 'chocolate', 'nan')","('shrimp',)",0.005332622,0.23255814,3.254512322
+77,"('chocolate', 'nan', 'herb & pepper')","('soylent coffiest',)",0.003999467,0.441176471,4.490182776
+78,"('chocolate', 'soup', 'nan')","('milk',)",0.003999467,0.394736842,3.046215075
+79,"('chocolate', 'sun chips', 'mineral water')","('olive oil',)",0.003866151,0.243697479,3.700353826
+80,"('chocolate', 'sun chips', 'mineral water')","('shrimp',)",0.003466205,0.218487395,3.057600652
+81,"('cooking oil', 'soylent coffiest' , 'nan')","('sun chips',)",0.00479936,0.571428571,3.281995187
+82,"('soylent vanilla', 'mineral water', 'eggs')","('milk',)",0.003732836,0.411764706,3.177620431
+83,"('soylent coffiest' , 'nan', 'eggs')","('herb & pepper',)",0.004132782,0.206666667,4.178454627
+84,"('red wine', 'nan', 'eggs')","('sun chips',)",0.003732836,0.528301887,3.034297437
+85,"('french fries', 'soylent coffiest' , 'nan')","('herb & pepper',)",0.003199573,0.230769231,4.665768194
+86,"('frozen smoothie', 'sun chips', 'mineral water')","('milk',)",0.003199573,0.470588235,3.631566207
+87,"('soylent vanilla', 'green tea', 'nan')","('tomatoes',)",0.003332889,0.231481481,3.384683416
+88,"('soylent vanilla', 'soylent coffiest' , 'mineral water')","('milk',)",0.003732836,0.405797101,3.131567961
+89,"('soylent vanilla', 'soylent coffiest' , 'milk')","('sun chips',)",0.003066258,0.534883721,3.072100146
+90,"('soylent vanilla', 'sun chips', 'mineral water')","('soylent coffiest',)",0.004399413,0.366666667,3.731840796
+91,"('soylent vanilla', 'sun chips', 'nan')","('soylent coffiest',)",0.008665511,0.311004785,3.165328209
+92,"('soylent vanilla', 'milk', 'mineral water')","('olive oil',)",0.003332889,0.301204819,4.573557387
+93,"('soylent vanilla', 'milk', 'mineral water')","('soup',)",0.003066258,0.277108434,5.484407286
+94,"('milk', 'sun chips', 'mineral water')","('soylent vanilla',)",0.004532729,0.288135593,3.022804314
+95,"('soylent vanilla', 'milk', 'nan')","('olive oil',)",0.00479936,0.203389831,3.088314005
+96,"('soylent vanilla', 'soup', 'nan')","('milk',)",0.003999467,0.5,3.858539095
+97,"('milk', 'tomatoes', 'nan')","('soylent vanilla',)",0.004132782,0.295238095,3.097316017
+98,"('shrimp', 'nan', 'mineral water')","('soylent vanilla',)",0.00719904,0.306818182,3.218801653
+99,"('soylent vanilla', 'sun chips', 'mineral water')","('shrimp',)",0.003332889,0.277777778,3.887334163
+100,"('soylent vanilla', 'sun chips', 'mineral water')","('tomatoes',)",0.003066258,0.255555556,3.736690492
+101,"('soylent vanilla', 'sun chips', 'nan')","('olive oil',)",0.005732569,0.205741627,3.124024175
+102,"('soylent vanilla', 'sun chips', 'nan')","('shrimp',)",0.0059992,0.215311005,3.013148968
+103,"('soylent vanilla', 'shrimp', 'nan')","('tomatoes',)",0.003999467,0.24,3.509239766
+104,"('soylent vanilla', 'sun chips', 'nan')","('tomatoes',)",0.006665778,0.23923445,3.498046019
+105,"('grated cheese', 'sun chips', 'nan')","('soylent coffiest',)",0.005332622,0.322580645,3.283144395
+106,"('soylent coffiest' , 'green tea', 'nan')","('tomatoes',)",0.003066258,0.207207207,3.029749047
+107,"('milk', 'nan', 'herb & pepper')","('soylent coffiest',)",0.00359952,0.391304348,3.982596897
+108,"('mineral water', 'nan', 'herb & pepper')","('soylent coffiest',)",0.006665778,0.390625,3.975682666
+109,"('sun chips', 'nan', 'herb & pepper')","('soylent coffiest',)",0.006399147,0.393442623,4.004359722
+110,"('mountain dew', 'soylent coffiest' , 'nan')","('milk',)",0.003866151,0.408450704,3.152046021
+111,"('soylent coffiest' , 'milk', 'nan')","('olive oil',)",0.004932676,0.224242424,3.404944179
+112,"('soup', 'soylent coffiest' , 'nan')","('milk',)",0.003999467,0.410958904,3.171401996
+113,"('olive oil', 'sun chips', 'mineral water')","('soylent coffiest',)",0.003066258,0.298701299,3.040106434
+114,"('soylent coffiest' , 'tomatoes', 'mineral water')","('sun chips',)",0.003066258,0.56097561,3.22195869
+115,"('pasta sauce', 'sun chips', 'nan')","('soylent coffiest',)",0.003332889,0.337837838,3.438428252
+116,"('shrimp', 'soylent coffiest' , 'nan')","('sun chips',)",0.0059992,0.523255814,3.00531536
+117,"('tomato sauce', 'soylent coffiest' , 'nan')","('sun chips',)",0.003066258,0.575,3.302507657
+118,"('milk', 'sun chips', 'mineral water')","('olive oil',)",0.003332889,0.211864407,3.216993756
+119,"('milk', 'sun chips', 'mineral water')","('tomatoes',)",0.003332889,0.211864407,3.097845839
+120,"('mountain dew', 'milk', 'nan')","('olive oil',)",0.00359952,0.243243243,3.693456615
+121,"('shrimp', 'olive oil', 'nan')","('milk',)",0.003199573,0.4,3.086831276
+122,"('olive oil', 'milk', 'nan')","('soup',)",0.00359952,0.2109375,4.174781497
+123,"('milk', 'sun chips', 'nan')","('olive oil',)",0.00719904,0.203007519,3.082508904
+124,"('milk', 'tomatoes', 'nan')","('soup',)",0.003066258,0.219047619,4.335293379
+125,"('whole wheat pasta', 'sun chips', 'nan')","('milk',)",0.003999467,0.454545455,3.507762813
+126,"('soup', 'nan', 'mineral water')","('olive oil',)",0.005199307,0.225433526,3.423030119
+127,"('whole wheat pasta', 'nan', 'mineral water')","('olive oil',)",0.003866151,0.402777778,6.115862573
+128,"('mountain dew', 'sun chips', 'nan')","('olive oil',)",0.003466205,0.201550388,3.060383517
+129,"('pancakes', 'sun chips', 'nan')","('olive oil',)",0.005065991,0.201058201,3.052910053
+130,"('olive oil', 'tomatoes', 'nan')","('sun chips',)",0.004399413,0.611111111,3.509911519
+131,"('whole wheat rice', 'sun chips', 'nan')","('tomatoes',)",0.003066258,0.216981132,3.172661738
+132,"('nan', 'chocolate', 'mineral water', 'eggs')","('soylent coffiest',)",0.003999467,0.297029703,3.023093354
+133,"('soylent vanilla', 'chocolate', 'nan', 'mineral water')","('soylent coffiest',)",0.003332889,0.342465753,3.485530009
+134,"('soylent vanilla', 'chocolate', 'soylent coffiest' , 'nan')","('sun chips',)",0.003066258,0.534883721,3.072100146
+135,"('soylent vanilla', 'chocolate', 'nan', 'mineral water')","('milk',)",0.003999467,0.410958904,3.171401996
+136,"('soylent vanilla', 'chocolate', 'sun chips', 'nan')","('milk',)",0.003466205,0.440677966,3.400746321
+137,"('soylent vanilla', 'chocolate', 'nan', 'mineral water')","('shrimp',)",0.003199573,0.328767123,4.600899612
+138,"('chocolate', 'sun chips', 'nan', 'mineral water')","('olive oil',)",0.003866151,0.243697479,3.700353826
+139,"('chocolate', 'sun chips', 'nan', 'mineral water')","('shrimp',)",0.003466205,0.218487395,3.057600652
+140,"('soylent vanilla', 'mineral water', 'nan', 'eggs')","('milk',)",0.003732836,0.411764706,3.177620431
+141,"('frozen smoothie', 'sun chips', 'nan', 'mineral water')","('milk',)",0.003199573,0.470588235,3.631566207
+142,"('soylent vanilla', 'soylent coffiest' , 'nan', 'mineral water')","('milk',)",0.003732836,0.405797101,3.131567961
+143,"('soylent vanilla', 'soylent coffiest' , 'milk', 'nan')","('sun chips',)",0.003066258,0.534883721,3.072100146
+144,"('soylent vanilla', 'sun chips', 'nan', 'mineral water')","('soylent coffiest',)",0.004399413,0.366666667,3.731840796
+145,"('soylent vanilla', 'milk', 'nan', 'mineral water')","('olive oil',)",0.003332889,0.301204819,4.573557387
+146,"('soylent vanilla', 'milk', 'nan', 'mineral water')","('soup',)",0.003066258,0.277108434,5.484407286
+147,"('sun chips', 'milk', 'nan', 'mineral water')","('soylent vanilla',)",0.004532729,0.288135593,3.022804314
+148,"('soylent vanilla', 'sun chips', 'nan', 'mineral water')","('shrimp',)",0.003332889,0.277777778,3.887334163
+149,"('soylent vanilla', 'sun chips', 'nan', 'mineral water')","('tomatoes',)",0.003066258,0.255555556,3.736690492
+150,"('sun chips', 'olive oil', 'nan', 'mineral water')","('soylent coffiest',)",0.003066258,0.298701299,3.040106434
+151,"('tomatoes', 'soylent coffiest' , 'nan', 'mineral water')","('sun chips',)",0.003066258,0.56097561,3.22195869
+152,"('sun chips', 'milk', 'nan', 'mineral water')","('olive oil',)",0.003332889,0.211864407,3.216993756
+153,"('sun chips', 'milk', 'nan', 'mineral water')","('tomatoes',)",0.003332889,0.211864407,3.097845839
